@@ -1,0 +1,26 @@
+RELATÓRIO DE REGISTRO DE TRABALHO - Rafael Furtado
+Trabalho 1 - Agência de Relacionamento - Lab. AED I
+
+Data ; Horas Trabalhadas ; Tipo Tarefa ; Descrição da Tarefa Realizada
+08/10/2026 ; 1,0 ; Projetar ; Início da arquitetura do programa, esboçando as primeiras TADs (Candidato e ListaIdentificadores).
+08/10/2026 ; 0,5 ; Estudar ; Leitura do enunciado e levantamento das restrições: Java puro, proibição de ArrayList/LinkedList e similares, uso obrigatório de lista simplesmente encadeada com tail e sentinelas.
+08/10/2026 ; 0,5 ; Especificar os módulos/pacote/classes ; Definição dos módulos do programa: ListaIdentificadores, ListaCandidatos, Candidato, Relacionamento (principal) e GeradorCandidatos (auxiliar), com suas dependências.
+08/10/2026 ; 1,0 ; Especificar as funções/métodos ; Especificação das operações de cada TAD (assinaturas, validações e custo) e das regras de compatibilidade e pesos, registradas no documento DOCUMENTACAO.md.
+10/10/2026 ; 0,5 ; Projetar ; Projeto da lista com sentinela de cabeça, sentinela de fim e tail, e de um iterador próprio para permitir percursos aninhados no cálculo dos pares.
+10/10/2026 ; 1,0 ; Codificar módulo ; Codificação do TAD ListaIdentificadores (inserção O(1) pelo tail, busca com sentinela, remoção, cópia, iterador) e da ListaCandidatos.
+10/10/2026 ; 1,5 ; Codificar módulo ; Codificação do TAD Candidato: verificaPotencialCompanheiro, inserePotencialCompanheiro, numeroCompanheiros, listaCompanheiros, temInteresse, reside, cálculo do grau de interesse com pesos e operações de criação/atualização.
+11/10/2026 ; 1,0 ; Codificar módulo ; Codificação do programa auxiliar GeradorCandidatos (sorteio de nome/sobrenome/estado/sexo/áreas, leitura do dicionário nomes.txt) que grava candidatos.txt.
+11/10/2026 ; 1,0 ; Codificar módulo ; Codificação da leitura de candidatos.txt no formato de blocos (N, ****, campos), com mensagens de erro indicando a linha.
+12/10/2026 ; 1,5 ; Codificar módulo ; Codificação do programa principal: cálculo dos pares, menu interativo e as 6 tarefas (grau desejado, companheiros de um candidato, K maiores, sem companheiros, por área, por estado).
+12/10/2026 ; 1,0 ; Realizar os testes ; Testes com arquivo montado à mão (pares conhecidos, área inválida/repetida, linha em branco, minúsculas), teste de simetria com 500 candidatos em todos os graus de 1 a 15, e testes de entradas inválidas.
+12/10/2026 ; 0,5 ; Diagnosticar e corrigir os problemas encontrados ; Acentos apareciam corrompidos no terminal do Windows: mensagens do programa passaram a ser escritas sem acentos. Leitura da sigla do estado lançava exceção ao fim da entrada: criada a função leLinha.
+12/10/2026 ; 0,5 ; Revisar código do módulo ; Revisão dos módulos: encapsulamento dos campos do Candidato (id obtido por obtemIdentificador), cópia da lista em listaCompanheiros, tratamento de erros de entrada.
+12/10/2026 ; 0,5 ; Revisar projetos ; Revisão do documento de arquitetura conforme o código final (dependências, decisões de interface e tabela de testes) e redação do LEIAME.TXT.
+
+
+Devido a quantidade grande de 27 estados muitos participantes ficavam sem par, por tanto fiz testes com diferentes valores para encontrar um em que o teste rode com uma proporção boa.
+
+ERROS ENCONTRADOS:
+Um numero_areas negativo é aceito sem aviso, e o candidato fica sem áreas.
+Quando o estado ou o sexo é inválido, a mensagem de erro aponta a linha do sexo de interesse em vez da linha do campo errado.
+Uma linha de nome vazia desloca os campos seguintes, e o erro aparece mais adiante, descrevendo outro campo.

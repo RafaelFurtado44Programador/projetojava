@@ -1,0 +1,9541 @@
+1000
+****
+Ana Ribeiro
+RJ
+F
+M
+5
+6
+2
+3
+7
+4
+****
+Eduarda Lima
+AM
+F
+M
+4
+2
+6
+5
+8
+****
+Felipe Rocha
+RJ
+M
+F
+3
+7
+2
+8
+****
+Beatriz Lima
+AC
+F
+M
+2
+3
+4
+****
+Felipe Silva
+PB
+M
+M
+5
+5
+6
+2
+3
+4
+****
+Tatiane Lima
+MT
+F
+M
+4
+3
+4
+7
+8
+****
+Thiago Rodrigues
+RO
+M
+I
+1
+8
+****
+Vinicius Almeida
+RS
+M
+F
+2
+6
+1
+****
+Olivia Martins
+MG
+F
+F
+6
+6
+7
+3
+4
+5
+2
+****
+Thiago Santos
+MS
+M
+F
+1
+5
+****
+Sofia Rodrigues
+SE
+F
+M
+6
+3
+4
+8
+7
+6
+5
+****
+Isabela Silva
+PI
+F
+M
+1
+1
+****
+Felipe Oliveira
+DF
+M
+M
+3
+7
+4
+8
+****
+Rafaela Souza
+PB
+F
+F
+4
+2
+7
+3
+4
+****
+Manuela Ribeiro
+PI
+F
+M
+3
+6
+7
+2
+****
+Samuel Ribeiro
+MT
+M
+I
+4
+6
+1
+2
+8
+****
+Miguel Ribeiro
+PA
+M
+F
+3
+6
+3
+1
+****
+Mateus Ferreira
+TO
+M
+F
+3
+8
+3
+7
+****
+Natalia Gomes
+AM
+F
+M
+1
+8
+****
+Diego Martins
+ES
+M
+F
+5
+1
+6
+4
+3
+5
+****
+Nicolas Lima
+RN
+M
+M
+4
+4
+8
+3
+5
+****
+Tatiane Lima
+RN
+F
+M
+6
+5
+1
+8
+2
+6
+4
+****
+Diego Costa
+MA
+M
+M
+6
+7
+8
+6
+5
+4
+3
+****
+Diego Souza
+SP
+M
+F
+6
+1
+4
+3
+2
+7
+6
+****
+Daniel Silva
+PR
+M
+F
+5
+1
+2
+5
+7
+6
+****
+Miguel Lima
+RN
+M
+F
+5
+8
+6
+3
+2
+1
+****
+Camila Almeida
+PA
+F
+M
+1
+3
+****
+Igor Rodrigues
+MA
+M
+F
+1
+1
+****
+Juliana Pereira
+GO
+F
+M
+1
+3
+****
+Ana Martins
+AL
+F
+I
+5
+4
+1
+7
+2
+8
+****
+Felipe Costa
+RS
+M
+F
+4
+3
+1
+6
+8
+****
+Beatriz Rodrigues
+RN
+F
+I
+6
+6
+3
+5
+2
+7
+8
+****
+Mateus Rocha
+CE
+M
+I
+3
+1
+6
+2
+****
+Valentina Pereira
+RJ
+F
+F
+6
+2
+6
+5
+3
+4
+7
+****
+Fernanda Rocha
+BA
+F
+M
+6
+8
+5
+3
+4
+1
+6
+****
+Felipe Rocha
+TO
+M
+M
+3
+6
+1
+3
+****
+Bruna Pereira
+ES
+F
+F
+4
+3
+4
+8
+6
+****
+Isabela Martins
+ES
+F
+I
+3
+2
+6
+8
+****
+Ana Ferreira
+PR
+F
+M
+2
+6
+1
+****
+Yasmin Silva
+MA
+F
+M
+3
+2
+1
+6
+****
+Patricia Pereira
+RO
+F
+M
+6
+2
+8
+3
+7
+4
+6
+****
+Clara Silva
+PA
+F
+M
+2
+6
+7
+****
+Alice Oliveira
+SP
+F
+M
+1
+2
+****
+Bruno Gomes
+PI
+M
+F
+4
+4
+6
+3
+7
+****
+Alice Gomes
+MA
+F
+M
+1
+2
+****
+Miguel Rocha
+AL
+M
+M
+3
+7
+4
+3
+****
+Caio Rodrigues
+AM
+M
+F
+3
+8
+5
+4
+****
+Carlos Lima
+RR
+M
+F
+5
+4
+2
+6
+5
+8
+****
+Tatiane Almeida
+DF
+F
+F
+2
+5
+4
+****
+Bruna Santos
+MA
+F
+I
+1
+7
+****
+Samuel Oliveira
+MT
+M
+F
+5
+6
+7
+2
+5
+4
+****
+Mariana Pereira
+SE
+F
+M
+3
+3
+4
+1
+****
+Eduarda Almeida
+MT
+F
+M
+5
+6
+7
+5
+3
+1
+****
+Eduarda Ribeiro
+RO
+F
+M
+2
+5
+2
+****
+Tatiane Souza
+CE
+F
+M
+4
+8
+3
+6
+7
+****
+Yasmin Oliveira
+CE
+F
+M
+6
+1
+2
+6
+8
+5
+4
+****
+Rafaela Costa
+AL
+F
+M
+3
+2
+5
+8
+****
+Bruna Santos
+RO
+F
+M
+4
+2
+3
+4
+1
+****
+Lucas Gomes
+DF
+M
+F
+1
+8
+****
+Beatriz Almeida
+MT
+F
+M
+6
+3
+6
+8
+4
+1
+5
+****
+Beatriz Oliveira
+TO
+F
+M
+1
+2
+****
+Arthur Oliveira
+AM
+M
+F
+3
+1
+2
+7
+****
+Beatriz Costa
+MG
+F
+M
+1
+5
+****
+Gabriel Rocha
+CE
+M
+F
+1
+6
+****
+Tatiane Oliveira
+DF
+F
+F
+5
+3
+7
+5
+2
+6
+****
+Bernardo Ferreira
+SC
+M
+F
+5
+5
+3
+1
+7
+2
+****
+Yasmin Rocha
+AP
+F
+I
+6
+8
+5
+3
+1
+7
+4
+****
+Diego Costa
+AL
+M
+F
+5
+5
+8
+4
+7
+6
+****
+Carlos Rodrigues
+RO
+M
+F
+5
+8
+3
+5
+4
+6
+****
+Larissa Costa
+PE
+F
+F
+3
+3
+4
+5
+****
+Juliana Pereira
+BA
+F
+I
+1
+6
+****
+Diego Ferreira
+MT
+M
+I
+6
+5
+3
+1
+2
+4
+7
+****
+Gabriela Ferreira
+MT
+F
+M
+1
+7
+****
+Manuela Ribeiro
+PI
+F
+M
+2
+3
+6
+****
+Fernanda Santos
+PR
+F
+M
+1
+7
+****
+Arthur Silva
+RS
+M
+F
+2
+4
+2
+****
+Vinicius Ribeiro
+TO
+M
+F
+1
+2
+****
+Mateus Almeida
+ES
+M
+F
+3
+5
+3
+7
+****
+Camila Souza
+BA
+F
+M
+1
+4
+****
+Mateus Rodrigues
+RS
+M
+F
+1
+6
+****
+Eduardo Lima
+SC
+M
+F
+1
+8
+****
+Rafael Oliveira
+SP
+M
+F
+6
+3
+8
+1
+5
+4
+6
+****
+Larissa Ribeiro
+AL
+F
+M
+3
+3
+4
+1
+****
+Helena Ferreira
+AP
+F
+M
+6
+5
+3
+7
+6
+8
+1
+****
+Olivia Ribeiro
+MS
+F
+I
+2
+1
+8
+****
+Miguel Rocha
+CE
+M
+F
+1
+4
+****
+Lucas Rodrigues
+SP
+M
+M
+4
+3
+2
+6
+7
+****
+Leonardo Santos
+SE
+M
+M
+4
+7
+3
+8
+5
+****
+Yasmin Ferreira
+PA
+F
+M
+2
+7
+6
+****
+Bruno Almeida
+PE
+M
+I
+5
+4
+1
+8
+2
+7
+****
+Eduarda Lima
+TO
+F
+F
+5
+2
+1
+6
+8
+4
+****
+Natalia Almeida
+MS
+F
+I
+6
+2
+8
+6
+5
+3
+4
+****
+Daniel Rodrigues
+BA
+M
+F
+4
+5
+6
+1
+3
+****
+Vinicius Costa
+SE
+M
+I
+6
+1
+6
+2
+5
+7
+3
+****
+Diego Costa
+PA
+M
+F
+4
+2
+7
+8
+3
+****
+Olivia Almeida
+AM
+F
+M
+6
+4
+6
+3
+1
+7
+5
+****
+Igor Ferreira
+BA
+M
+F
+5
+8
+6
+3
+1
+4
+****
+Gustavo Rodrigues
+PE
+M
+F
+1
+5
+****
+Rafaela Pereira
+SP
+F
+I
+2
+8
+2
+****
+Olivia Martins
+AP
+F
+M
+6
+6
+1
+4
+8
+7
+5
+****
+Alice Pereira
+MT
+F
+M
+1
+6
+****
+Daniel Oliveira
+SE
+M
+M
+6
+1
+5
+3
+4
+6
+2
+****
+Mateus Gomes
+MG
+M
+F
+5
+2
+1
+5
+8
+3
+****
+Rafael Martins
+SE
+M
+F
+1
+5
+****
+Gabriela Oliveira
+AP
+F
+M
+3
+5
+8
+7
+****
+Diego Rodrigues
+PR
+M
+M
+1
+7
+****
+Samuel Santos
+PA
+M
+F
+6
+2
+6
+4
+3
+5
+1
+****
+Leonardo Almeida
+PI
+M
+I
+2
+5
+3
+****
+Igor Silva
+TO
+M
+M
+1
+5
+****
+Felipe Pereira
+BA
+M
+I
+5
+5
+3
+7
+6
+1
+****
+Otavio Souza
+PB
+M
+I
+6
+5
+1
+6
+2
+4
+3
+****
+Mariana Lima
+MA
+F
+M
+6
+4
+3
+2
+7
+5
+8
+****
+Bruno Costa
+MA
+M
+F
+2
+7
+8
+****
+Juliana Costa
+PE
+F
+M
+3
+2
+1
+7
+****
+Bruna Lima
+PB
+F
+F
+4
+6
+2
+7
+5
+****
+Eduardo Rocha
+PI
+M
+F
+1
+1
+****
+Pedro Martins
+MT
+M
+F
+5
+1
+8
+4
+6
+5
+****
+Pedro Martins
+RO
+M
+M
+1
+2
+****
+Mariana Rodrigues
+PA
+F
+M
+4
+7
+5
+3
+8
+****
+Otavio Rocha
+PE
+M
+F
+6
+5
+6
+8
+4
+2
+3
+****
+Manuela Gomes
+ES
+F
+M
+5
+7
+8
+1
+6
+4
+****
+Gabriela Pereira
+PI
+F
+M
+6
+4
+1
+2
+6
+7
+5
+****
+Bruna Lima
+MS
+F
+M
+5
+3
+8
+6
+2
+4
+****
+Leonardo Martins
+DF
+M
+F
+2
+7
+4
+****
+Gabriela Santos
+PE
+F
+F
+1
+6
+****
+Natalia Oliveira
+AL
+F
+I
+4
+5
+8
+2
+6
+****
+Daniel Ribeiro
+SC
+M
+F
+1
+7
+****
+Juliana Lima
+DF
+F
+F
+4
+2
+8
+4
+7
+****
+Gustavo Almeida
+RS
+M
+F
+3
+4
+1
+5
+****
+Olivia Oliveira
+RS
+F
+M
+6
+6
+2
+1
+8
+5
+7
+****
+Pedro Lima
+RJ
+M
+F
+5
+1
+2
+7
+5
+3
+****
+Bruna Silva
+AM
+F
+I
+1
+7
+****
+Samuel Oliveira
+AP
+M
+F
+1
+3
+****
+Yasmin Silva
+PE
+F
+M
+6
+2
+5
+7
+1
+3
+6
+****
+Manuela Ferreira
+DF
+F
+M
+5
+4
+3
+2
+8
+7
+****
+Camila Souza
+AC
+F
+F
+2
+4
+8
+****
+Lucas Martins
+PA
+M
+M
+5
+7
+1
+6
+8
+2
+****
+Samuel Santos
+MS
+M
+F
+6
+8
+7
+1
+2
+5
+6
+****
+Beatriz Santos
+DF
+F
+M
+3
+3
+1
+2
+****
+Tatiane Lima
+PI
+F
+I
+6
+6
+7
+3
+5
+8
+1
+****
+Gustavo Souza
+RR
+M
+F
+5
+2
+8
+5
+6
+3
+****
+Leonardo Rocha
+PI
+M
+I
+4
+8
+4
+1
+6
+****
+Eduarda Oliveira
+PR
+F
+I
+3
+6
+2
+3
+****
+Pedro Souza
+AL
+M
+F
+5
+3
+5
+8
+1
+7
+****
+Manuela Gomes
+PR
+F
+I
+4
+3
+6
+2
+8
+****
+Mariana Almeida
+AM
+F
+M
+4
+7
+3
+6
+8
+****
+Ana Pereira
+RJ
+F
+I
+1
+1
+****
+Bruno Rocha
+AC
+M
+F
+1
+8
+****
+Patricia Rocha
+DF
+F
+M
+6
+7
+6
+8
+5
+1
+2
+****
+Igor Rodrigues
+MA
+M
+I
+6
+5
+3
+6
+8
+2
+1
+****
+Bruna Souza
+MG
+F
+M
+4
+8
+4
+6
+3
+****
+Eduarda Ribeiro
+SC
+F
+M
+4
+7
+5
+1
+6
+****
+Helena Rodrigues
+AL
+F
+M
+3
+2
+3
+1
+****
+Eduarda Ferreira
+TO
+F
+M
+3
+5
+4
+7
+****
+Igor Oliveira
+SC
+M
+I
+4
+2
+1
+3
+4
+****
+Gustavo Santos
+AL
+M
+F
+2
+3
+5
+****
+Daniela Souza
+AL
+F
+M
+2
+7
+1
+****
+Diego Costa
+SC
+M
+M
+3
+1
+4
+6
+****
+Thiago Rodrigues
+MG
+M
+M
+5
+2
+7
+8
+5
+3
+****
+Otavio Martins
+MA
+M
+F
+1
+4
+****
+Samuel Martins
+DF
+M
+F
+2
+8
+5
+****
+Mateus Ferreira
+CE
+M
+F
+2
+1
+6
+****
+Nicolas Gomes
+MS
+M
+F
+3
+8
+4
+1
+****
+Rafaela Lima
+RJ
+F
+F
+5
+1
+4
+2
+3
+6
+****
+Henrique Oliveira
+SE
+M
+I
+2
+6
+1
+****
+Eduarda Pereira
+MT
+F
+M
+3
+5
+6
+2
+****
+Natalia Lima
+PB
+F
+M
+5
+4
+5
+7
+6
+8
+****
+Helena Almeida
+SC
+F
+M
+5
+1
+5
+7
+8
+2
+****
+Bruna Oliveira
+SC
+F
+F
+1
+1
+****
+Rafaela Rocha
+MS
+F
+M
+4
+5
+7
+3
+1
+****
+Caio Ferreira
+RS
+M
+F
+2
+6
+8
+****
+Fernanda Santos
+RN
+F
+F
+6
+7
+2
+5
+3
+8
+1
+****
+Beatriz Almeida
+DF
+F
+M
+3
+3
+6
+2
+****
+Rafael Costa
+AL
+M
+I
+6
+6
+7
+3
+5
+2
+4
+****
+Mateus Gomes
+TO
+M
+F
+1
+2
+****
+Gabriela Silva
+AM
+F
+M
+5
+3
+1
+8
+2
+5
+****
+Helena Silva
+MA
+F
+M
+5
+7
+1
+5
+3
+6
+****
+Helena Ferreira
+RN
+F
+M
+4
+8
+6
+1
+5
+****
+Alice Rocha
+SP
+F
+M
+2
+5
+4
+****
+Helena Rodrigues
+PB
+F
+M
+3
+2
+7
+3
+****
+Nicolas Santos
+AM
+M
+F
+4
+7
+8
+2
+1
+****
+Daniela Lima
+RO
+F
+M
+3
+7
+8
+2
+****
+Nicolas Oliveira
+CE
+M
+F
+4
+2
+3
+8
+5
+****
+Gabriel Rocha
+RS
+M
+M
+4
+5
+3
+4
+8
+****
+Carlos Gomes
+TO
+M
+F
+2
+6
+7
+****
+Bruna Lima
+GO
+F
+M
+2
+2
+7
+****
+Otavio Ferreira
+RN
+M
+F
+5
+8
+7
+5
+6
+4
+****
+Fernanda Martins
+MG
+F
+M
+3
+6
+1
+3
+****
+Leticia Lima
+MA
+F
+I
+2
+8
+6
+****
+Eduarda Santos
+RN
+F
+F
+2
+6
+4
+****
+Otavio Martins
+SC
+M
+M
+5
+8
+2
+5
+7
+1
+****
+Caio Almeida
+PA
+M
+F
+2
+8
+2
+****
+Caio Souza
+AM
+M
+M
+6
+4
+1
+3
+5
+8
+6
+****
+Bruno Ferreira
+RR
+M
+F
+3
+8
+4
+5
+****
+Eduarda Silva
+SE
+F
+M
+2
+4
+7
+****
+Gustavo Almeida
+AC
+M
+F
+1
+6
+****
+Camila Santos
+SC
+F
+M
+4
+3
+2
+6
+7
+****
+Diego Martins
+DF
+M
+F
+6
+5
+6
+7
+2
+3
+1
+****
+Joao Ferreira
+MT
+M
+F
+4
+1
+4
+8
+5
+****
+Ana Souza
+PR
+F
+M
+6
+5
+8
+1
+7
+4
+2
+****
+Bernardo Gomes
+DF
+M
+F
+3
+8
+1
+2
+****
+Mateus Ribeiro
+RJ
+M
+I
+6
+6
+2
+4
+5
+1
+7
+****
+Alice Pereira
+MS
+F
+F
+5
+5
+4
+8
+6
+1
+****
+Helena Gomes
+RN
+F
+M
+5
+5
+1
+4
+6
+3
+****
+Mariana Costa
+RJ
+F
+M
+4
+5
+2
+3
+7
+****
+Otavio Rodrigues
+CE
+M
+F
+3
+1
+8
+6
+****
+Bernardo Costa
+RR
+M
+I
+2
+1
+8
+****
+Pedro Rodrigues
+SC
+M
+F
+2
+4
+8
+****
+Leonardo Oliveira
+PE
+M
+M
+3
+8
+1
+2
+****
+Beatriz Martins
+AM
+F
+M
+2
+6
+1
+****
+Beatriz Pereira
+SP
+F
+F
+1
+5
+****
+Gabriela Lima
+SP
+F
+M
+5
+5
+2
+4
+1
+3
+****
+Isabela Rodrigues
+PI
+F
+F
+6
+6
+5
+2
+3
+7
+1
+****
+Olivia Ferreira
+MS
+F
+M
+2
+7
+2
+****
+Natalia Almeida
+DF
+F
+M
+5
+3
+4
+6
+8
+1
+****
+Bruno Souza
+ES
+M
+I
+1
+8
+****
+Carlos Silva
+RN
+M
+M
+2
+2
+8
+****
+Valentina Martins
+TO
+F
+I
+1
+1
+****
+Valentina Ferreira
+SC
+F
+F
+1
+6
+****
+Samuel Oliveira
+RJ
+M
+F
+6
+3
+6
+5
+7
+1
+4
+****
+Alice Ribeiro
+SE
+F
+M
+2
+2
+3
+****
+Gabriela Ferreira
+PI
+F
+F
+2
+2
+1
+****
+Bruna Lima
+MT
+F
+M
+2
+5
+2
+****
+Rafaela Oliveira
+DF
+F
+M
+3
+7
+2
+3
+****
+Valentina Ribeiro
+RN
+F
+I
+5
+4
+3
+5
+2
+6
+****
+Eduardo Gomes
+SE
+M
+F
+3
+7
+5
+3
+****
+Nicolas Rodrigues
+MA
+M
+F
+2
+1
+6
+****
+Mariana Silva
+SP
+F
+M
+1
+1
+****
+Eduardo Souza
+PA
+M
+M
+4
+8
+6
+7
+1
+****
+Pedro Pereira
+MA
+M
+F
+6
+7
+5
+6
+8
+4
+3
+****
+Ana Gomes
+RJ
+F
+M
+5
+3
+5
+7
+1
+4
+****
+Yasmin Silva
+AL
+F
+F
+5
+8
+3
+4
+1
+5
+****
+Mariana Souza
+MA
+F
+M
+1
+5
+****
+Daniel Ferreira
+PE
+M
+F
+6
+5
+6
+2
+1
+3
+4
+****
+Mateus Pereira
+PR
+M
+F
+5
+7
+3
+1
+8
+6
+****
+Mariana Santos
+RJ
+F
+M
+1
+2
+****
+Otavio Ferreira
+PA
+M
+F
+6
+8
+7
+4
+2
+1
+6
+****
+Arthur Santos
+TO
+M
+F
+2
+3
+5
+****
+Pedro Silva
+MS
+M
+M
+5
+4
+7
+5
+3
+6
+****
+Natalia Rodrigues
+SE
+F
+M
+4
+4
+7
+8
+6
+****
+Bernardo Santos
+SP
+M
+M
+6
+3
+6
+2
+7
+1
+4
+****
+Miguel Oliveira
+RN
+M
+F
+2
+6
+8
+****
+Otavio Martins
+RS
+M
+I
+4
+7
+1
+2
+4
+****
+Gabriela Rocha
+RO
+F
+M
+3
+5
+7
+4
+****
+Leticia Martins
+PA
+F
+M
+2
+3
+4
+****
+Rafael Costa
+MA
+M
+F
+5
+1
+2
+5
+4
+8
+****
+Thiago Rodrigues
+AC
+M
+F
+4
+3
+5
+8
+4
+****
+Diego Lima
+RN
+M
+F
+2
+4
+2
+****
+Clara Almeida
+SE
+F
+I
+4
+5
+8
+2
+1
+****
+Caio Costa
+SC
+M
+F
+4
+8
+3
+5
+2
+****
+Alice Lima
+AM
+F
+M
+4
+3
+4
+5
+2
+****
+Nicolas Almeida
+AM
+M
+F
+6
+5
+1
+8
+7
+3
+6
+****
+Thiago Martins
+MG
+M
+F
+4
+6
+5
+4
+3
+****
+Henrique Almeida
+RS
+M
+I
+1
+5
+****
+Rafael Rocha
+TO
+M
+F
+3
+2
+3
+8
+****
+Tatiane Rodrigues
+MS
+F
+M
+6
+3
+4
+5
+7
+6
+1
+****
+Daniel Costa
+SP
+M
+M
+3
+2
+7
+1
+****
+Caio Silva
+MG
+M
+F
+4
+5
+4
+8
+7
+****
+Fernanda Rocha
+MG
+F
+M
+3
+2
+1
+4
+****
+Gustavo Gomes
+MT
+M
+F
+3
+2
+8
+3
+****
+Diego Gomes
+PA
+M
+F
+6
+7
+5
+2
+1
+4
+8
+****
+Lucas Silva
+AL
+M
+I
+3
+1
+8
+4
+****
+Rafael Ribeiro
+ES
+M
+F
+2
+2
+7
+****
+Fernanda Santos
+MS
+F
+I
+3
+5
+3
+1
+****
+Leticia Pereira
+RS
+F
+I
+2
+3
+2
+****
+Larissa Almeida
+MG
+F
+F
+6
+4
+7
+2
+6
+8
+3
+****
+Igor Almeida
+MA
+M
+M
+6
+2
+1
+4
+6
+7
+3
+****
+Miguel Oliveira
+AC
+M
+F
+4
+6
+8
+7
+1
+****
+Rafael Ribeiro
+DF
+M
+F
+4
+3
+2
+4
+8
+****
+Alice Almeida
+MS
+F
+F
+3
+8
+2
+6
+****
+Yasmin Santos
+AP
+F
+M
+5
+1
+8
+4
+6
+2
+****
+Felipe Gomes
+RN
+M
+M
+5
+7
+3
+1
+6
+5
+****
+Gabriela Ribeiro
+RN
+F
+M
+2
+1
+2
+****
+Pedro Ferreira
+AM
+M
+F
+4
+6
+4
+8
+1
+****
+Olivia Lima
+MT
+F
+M
+2
+1
+2
+****
+Gabriel Gomes
+RR
+M
+F
+6
+3
+2
+5
+8
+7
+6
+****
+Eduardo Martins
+AM
+M
+F
+2
+3
+8
+****
+Pedro Souza
+MA
+M
+F
+1
+3
+****
+Bruna Santos
+AL
+F
+F
+4
+3
+5
+8
+7
+****
+Vinicius Souza
+RJ
+M
+I
+5
+1
+3
+6
+4
+8
+****
+Rafaela Souza
+SE
+F
+F
+1
+4
+****
+Daniela Silva
+RJ
+F
+M
+2
+1
+3
+****
+Larissa Costa
+PE
+F
+M
+4
+3
+4
+7
+2
+****
+Helena Almeida
+AL
+F
+M
+4
+2
+1
+3
+8
+****
+Manuela Pereira
+PA
+F
+M
+1
+5
+****
+Bruno Costa
+AP
+M
+F
+5
+1
+2
+7
+5
+6
+****
+Henrique Oliveira
+SE
+M
+I
+4
+5
+1
+2
+7
+****
+Alice Gomes
+MT
+F
+M
+1
+8
+****
+Juliana Gomes
+RJ
+F
+M
+4
+3
+7
+6
+5
+****
+Gabriela Santos
+SC
+F
+M
+1
+7
+****
+Lucas Souza
+RN
+M
+F
+4
+2
+7
+3
+4
+****
+Daniel Rocha
+AC
+M
+F
+6
+7
+1
+5
+3
+4
+6
+****
+Olivia Rodrigues
+AC
+F
+M
+6
+5
+4
+3
+1
+6
+2
+****
+Valentina Gomes
+RO
+F
+M
+3
+2
+8
+4
+****
+Ana Ferreira
+PI
+F
+F
+6
+4
+8
+2
+1
+7
+3
+****
+Leonardo Rodrigues
+DF
+M
+F
+5
+2
+6
+1
+5
+8
+****
+Henrique Oliveira
+SE
+M
+F
+2
+7
+3
+****
+Bruna Rocha
+RS
+F
+M
+4
+5
+6
+8
+7
+****
+Nicolas Rodrigues
+TO
+M
+F
+6
+5
+8
+1
+7
+2
+4
+****
+Diego Costa
+PB
+M
+M
+5
+7
+3
+5
+1
+4
+****
+Gabriela Pereira
+MT
+F
+M
+3
+1
+7
+4
+****
+Fernanda Ribeiro
+ES
+F
+I
+5
+2
+4
+7
+6
+1
+****
+Henrique Lima
+PE
+M
+F
+6
+6
+8
+7
+5
+4
+1
+****
+Arthur Silva
+MT
+M
+F
+3
+6
+7
+8
+****
+Manuela Martins
+SC
+F
+M
+1
+7
+****
+Mateus Ferreira
+RO
+M
+I
+5
+2
+7
+6
+1
+8
+****
+Thiago Santos
+TO
+M
+M
+1
+5
+****
+Daniela Santos
+CE
+F
+M
+2
+4
+8
+****
+Nicolas Ferreira
+MS
+M
+F
+5
+4
+2
+7
+8
+1
+****
+Henrique Ferreira
+PA
+M
+M
+5
+4
+5
+1
+3
+7
+****
+Bruno Ribeiro
+AC
+M
+F
+1
+2
+****
+Samuel Ferreira
+RO
+M
+F
+1
+8
+****
+Eduardo Ribeiro
+MA
+M
+M
+3
+8
+6
+1
+****
+Pedro Rodrigues
+AP
+M
+M
+3
+5
+4
+7
+****
+Gabriela Gomes
+MA
+F
+F
+5
+2
+1
+5
+3
+6
+****
+Diego Ferreira
+RS
+M
+I
+3
+8
+7
+6
+****
+Arthur Rodrigues
+RR
+M
+F
+3
+5
+3
+4
+****
+Felipe Pereira
+AL
+M
+M
+5
+2
+3
+7
+6
+1
+****
+Samuel Rodrigues
+PB
+M
+F
+3
+8
+5
+4
+****
+Miguel Ferreira
+SE
+M
+F
+1
+6
+****
+Henrique Gomes
+TO
+M
+F
+5
+1
+6
+4
+3
+7
+****
+Sofia Gomes
+RS
+F
+M
+6
+6
+2
+7
+1
+8
+5
+****
+Gustavo Gomes
+CE
+M
+F
+3
+2
+3
+4
+****
+Fernanda Rodrigues
+AC
+F
+M
+5
+7
+6
+8
+3
+4
+****
+Gabriela Souza
+GO
+F
+M
+4
+1
+2
+5
+8
+****
+Eduarda Ferreira
+PE
+F
+M
+1
+3
+****
+Henrique Rodrigues
+GO
+M
+M
+2
+4
+2
+****
+Beatriz Ferreira
+RN
+F
+M
+3
+7
+3
+2
+****
+Juliana Martins
+TO
+F
+M
+1
+4
+****
+Felipe Lima
+SE
+M
+F
+6
+3
+2
+6
+7
+5
+8
+****
+Henrique Silva
+DF
+M
+F
+4
+7
+5
+3
+6
+****
+Sofia Rodrigues
+AM
+F
+M
+6
+1
+6
+3
+5
+2
+4
+****
+Juliana Rocha
+AL
+F
+F
+4
+3
+8
+2
+1
+****
+Pedro Ferreira
+PE
+M
+F
+2
+7
+4
+****
+Alice Costa
+MG
+F
+F
+5
+6
+3
+2
+7
+4
+****
+Nicolas Oliveira
+PE
+M
+F
+3
+6
+3
+7
+****
+Diego Lima
+TO
+M
+M
+2
+8
+1
+****
+Beatriz Silva
+DF
+F
+M
+4
+3
+5
+6
+2
+****
+Fernanda Rocha
+RO
+F
+F
+5
+5
+6
+1
+2
+4
+****
+Pedro Ribeiro
+AL
+M
+F
+4
+4
+5
+8
+1
+****
+Vinicius Gomes
+SC
+M
+I
+1
+4
+****
+Nicolas Souza
+PI
+M
+F
+1
+7
+****
+Gustavo Santos
+TO
+M
+F
+4
+3
+4
+2
+7
+****
+Gustavo Martins
+RJ
+M
+F
+1
+2
+****
+Yasmin Rocha
+MS
+F
+I
+3
+4
+8
+3
+****
+Felipe Oliveira
+MG
+M
+F
+4
+7
+4
+8
+6
+****
+Alice Almeida
+ES
+F
+M
+6
+6
+7
+4
+5
+3
+2
+****
+Daniel Almeida
+AL
+M
+F
+2
+2
+1
+****
+Daniel Martins
+SE
+M
+F
+2
+1
+6
+****
+Carlos Rocha
+TO
+M
+F
+6
+3
+6
+1
+7
+2
+4
+****
+Thiago Santos
+MT
+M
+F
+5
+6
+4
+7
+8
+5
+****
+Gabriel Gomes
+PR
+M
+F
+6
+4
+1
+6
+7
+3
+2
+****
+Alice Rodrigues
+TO
+F
+M
+2
+2
+4
+****
+Rafaela Oliveira
+AL
+F
+M
+6
+3
+1
+6
+5
+4
+7
+****
+Eduardo Lima
+RO
+M
+I
+1
+6
+****
+Joao Lima
+AL
+M
+M
+3
+6
+8
+1
+****
+Mariana Rocha
+AL
+F
+M
+6
+1
+6
+5
+2
+8
+7
+****
+Lucas Martins
+TO
+M
+I
+1
+1
+****
+Alice Rodrigues
+RO
+F
+M
+4
+4
+1
+6
+3
+****
+Larissa Souza
+GO
+F
+M
+2
+8
+7
+****
+Leticia Lima
+PA
+F
+I
+1
+5
+****
+Olivia Ribeiro
+RS
+F
+M
+2
+8
+4
+****
+Natalia Pereira
+RO
+F
+F
+2
+6
+1
+****
+Thiago Rodrigues
+ES
+M
+M
+6
+4
+2
+8
+7
+3
+1
+****
+Gabriela Ferreira
+RS
+F
+I
+1
+1
+****
+Daniel Oliveira
+AC
+M
+F
+6
+3
+6
+1
+7
+8
+4
+****
+Bruna Gomes
+RR
+F
+M
+1
+1
+****
+Felipe Ribeiro
+MS
+M
+I
+6
+8
+5
+1
+3
+7
+4
+****
+Sofia Rocha
+MT
+F
+M
+5
+8
+3
+1
+2
+5
+****
+Helena Lima
+RO
+F
+M
+5
+3
+6
+7
+8
+1
+****
+Isabela Martins
+TO
+F
+I
+5
+4
+5
+6
+2
+1
+****
+Thiago Gomes
+DF
+M
+F
+6
+1
+4
+6
+7
+8
+2
+****
+Beatriz Almeida
+PI
+F
+M
+1
+3
+****
+Fernanda Pereira
+PA
+F
+M
+1
+8
+****
+Manuela Ferreira
+RN
+F
+M
+4
+3
+1
+6
+7
+****
+Rafael Almeida
+RJ
+M
+F
+3
+2
+4
+7
+****
+Natalia Lima
+RS
+F
+M
+3
+5
+1
+2
+****
+Eduardo Lima
+MS
+M
+F
+2
+4
+3
+****
+Arthur Almeida
+SP
+M
+F
+5
+1
+6
+4
+5
+8
+****
+Leticia Souza
+RO
+F
+M
+4
+4
+7
+2
+5
+****
+Miguel Ferreira
+RS
+M
+M
+3
+7
+2
+5
+****
+Gustavo Silva
+PI
+M
+F
+4
+7
+3
+6
+8
+****
+Joao Lima
+DF
+M
+F
+2
+7
+3
+****
+Camila Santos
+AP
+F
+M
+1
+4
+****
+Rafael Almeida
+PI
+M
+F
+3
+2
+1
+5
+****
+Mateus Ribeiro
+BA
+M
+M
+6
+3
+5
+7
+8
+1
+4
+****
+Tatiane Pereira
+DF
+F
+M
+2
+3
+6
+****
+Caio Lima
+SP
+M
+F
+3
+5
+1
+8
+****
+Vinicius Silva
+MS
+M
+M
+3
+8
+3
+5
+****
+Vinicius Almeida
+SC
+M
+I
+5
+8
+3
+7
+1
+6
+****
+Mariana Ribeiro
+SE
+F
+M
+3
+4
+3
+7
+****
+Sofia Almeida
+RS
+F
+M
+2
+3
+6
+****
+Miguel Ribeiro
+ES
+M
+F
+4
+3
+5
+1
+2
+****
+Valentina Almeida
+SP
+F
+F
+1
+8
+****
+Sofia Ribeiro
+PB
+F
+M
+4
+1
+5
+7
+4
+****
+Natalia Lima
+RJ
+F
+F
+1
+4
+****
+Eduardo Gomes
+PA
+M
+M
+1
+4
+****
+Arthur Souza
+MS
+M
+F
+6
+1
+3
+5
+8
+2
+4
+****
+Gabriel Rocha
+SC
+M
+F
+1
+7
+****
+Eduardo Ribeiro
+MG
+M
+F
+4
+4
+6
+7
+2
+****
+Bruna Martins
+RJ
+F
+M
+4
+8
+2
+5
+6
+****
+Felipe Santos
+RN
+M
+M
+4
+4
+1
+8
+2
+****
+Lucas Ferreira
+PI
+M
+M
+3
+6
+2
+4
+****
+Mariana Pereira
+AL
+F
+M
+5
+6
+8
+1
+2
+7
+****
+Helena Rodrigues
+RR
+F
+M
+2
+1
+7
+****
+Lucas Rodrigues
+GO
+M
+M
+4
+7
+5
+3
+8
+****
+Leonardo Lima
+AL
+M
+I
+2
+4
+1
+****
+Vinicius Rocha
+PR
+M
+F
+2
+1
+8
+****
+Lucas Rocha
+RJ
+M
+F
+6
+3
+8
+6
+4
+5
+2
+****
+Yasmin Costa
+ES
+F
+M
+5
+1
+7
+8
+6
+4
+****
+Samuel Rocha
+SE
+M
+F
+4
+1
+5
+6
+3
+****
+Thiago Ribeiro
+CE
+M
+F
+2
+8
+6
+****
+Larissa Silva
+RS
+F
+M
+3
+8
+5
+6
+****
+Daniel Martins
+GO
+M
+F
+3
+3
+5
+4
+****
+Valentina Ribeiro
+CE
+F
+M
+6
+3
+1
+2
+5
+6
+7
+****
+Eduardo Pereira
+RS
+M
+M
+6
+2
+8
+5
+6
+7
+1
+****
+Eduardo Souza
+CE
+M
+I
+4
+3
+7
+2
+6
+****
+Isabela Rocha
+PI
+F
+I
+2
+7
+3
+****
+Mateus Silva
+RJ
+M
+F
+2
+5
+3
+****
+Tatiane Almeida
+AC
+F
+M
+4
+1
+5
+4
+8
+****
+Igor Silva
+DF
+M
+F
+3
+1
+4
+7
+****
+Gustavo Souza
+SE
+M
+F
+4
+8
+1
+4
+5
+****
+Diego Pereira
+AM
+M
+I
+4
+8
+7
+4
+5
+****
+Gabriela Santos
+PB
+F
+M
+2
+4
+1
+****
+Igor Silva
+PI
+M
+F
+2
+2
+3
+****
+Isabela Ribeiro
+GO
+F
+M
+3
+3
+1
+2
+****
+Olivia Martins
+TO
+F
+M
+5
+3
+5
+7
+2
+6
+****
+Clara Lima
+SE
+F
+M
+2
+1
+3
+****
+Bernardo Oliveira
+BA
+M
+F
+5
+7
+2
+6
+8
+1
+****
+Vinicius Santos
+TO
+M
+F
+5
+7
+2
+8
+4
+1
+****
+Thiago Martins
+PI
+M
+I
+5
+8
+6
+3
+4
+2
+****
+Rafael Pereira
+SP
+M
+F
+2
+4
+7
+****
+Yasmin Rodrigues
+RS
+F
+M
+3
+3
+4
+2
+****
+Alice Rocha
+BA
+F
+M
+2
+3
+1
+****
+Diego Ferreira
+AC
+M
+I
+3
+6
+1
+2
+****
+Bruna Costa
+CE
+F
+M
+3
+3
+5
+1
+****
+Lucas Rodrigues
+PA
+M
+F
+6
+2
+8
+4
+5
+3
+7
+****
+Gabriela Ribeiro
+PE
+F
+M
+3
+5
+2
+8
+****
+Rafaela Santos
+MA
+F
+M
+2
+6
+5
+****
+Arthur Rocha
+GO
+M
+F
+6
+3
+6
+5
+7
+8
+4
+****
+Beatriz Rodrigues
+RS
+F
+M
+2
+5
+8
+****
+Fernanda Rocha
+PR
+F
+M
+4
+6
+3
+7
+4
+****
+Bruna Almeida
+PE
+F
+I
+2
+8
+6
+****
+Igor Gomes
+RO
+M
+I
+1
+6
+****
+Gabriela Martins
+SC
+F
+I
+4
+3
+6
+4
+2
+****
+Diego Almeida
+GO
+M
+F
+2
+3
+1
+****
+Leonardo Rocha
+MS
+M
+I
+3
+8
+2
+7
+****
+Arthur Santos
+MA
+M
+F
+1
+1
+****
+Lucas Rodrigues
+GO
+M
+F
+1
+5
+****
+Larissa Ribeiro
+DF
+F
+M
+4
+2
+3
+7
+6
+****
+Daniela Martins
+PE
+F
+M
+2
+6
+5
+****
+Arthur Rodrigues
+SC
+M
+F
+5
+5
+2
+4
+6
+7
+****
+Gabriel Almeida
+TO
+M
+F
+1
+7
+****
+Gabriel Rocha
+PI
+M
+F
+3
+4
+2
+5
+****
+Nicolas Gomes
+SC
+M
+F
+5
+7
+6
+3
+5
+8
+****
+Helena Lima
+MG
+F
+I
+2
+4
+1
+****
+Mateus Martins
+TO
+M
+I
+1
+3
+****
+Felipe Rodrigues
+PB
+M
+M
+5
+2
+3
+7
+4
+6
+****
+Mateus Costa
+SP
+M
+M
+5
+8
+5
+2
+3
+4
+****
+Patricia Costa
+AL
+F
+F
+1
+7
+****
+Patricia Lima
+RS
+F
+I
+6
+3
+1
+4
+7
+8
+2
+****
+Valentina Oliveira
+PB
+F
+I
+3
+2
+5
+6
+****
+Caio Almeida
+PI
+M
+I
+4
+3
+8
+7
+5
+****
+Ana Costa
+PA
+F
+M
+5
+8
+5
+3
+7
+4
+****
+Igor Santos
+MG
+M
+F
+2
+1
+5
+****
+Eduardo Oliveira
+DF
+M
+F
+2
+7
+1
+****
+Fernanda Santos
+AC
+F
+M
+4
+6
+4
+3
+7
+****
+Gabriela Rocha
+PI
+F
+M
+5
+8
+1
+6
+7
+3
+****
+Vinicius Lima
+MA
+M
+F
+2
+6
+1
+****
+Samuel Silva
+RN
+M
+F
+6
+7
+2
+4
+1
+8
+3
+****
+Valentina Souza
+AM
+F
+M
+2
+2
+5
+****
+Olivia Pereira
+BA
+F
+M
+5
+8
+5
+4
+2
+7
+****
+Arthur Ribeiro
+RN
+M
+I
+6
+5
+8
+2
+7
+1
+3
+****
+Rafaela Lima
+AC
+F
+M
+5
+4
+6
+1
+7
+2
+****
+Mariana Silva
+AM
+F
+M
+5
+2
+1
+3
+4
+7
+****
+Caio Oliveira
+RS
+M
+F
+6
+8
+6
+7
+4
+1
+3
+****
+Pedro Ferreira
+PI
+M
+F
+3
+7
+1
+2
+****
+Beatriz Lima
+BA
+F
+I
+1
+1
+****
+Rafael Silva
+MG
+M
+I
+2
+3
+8
+****
+Manuela Oliveira
+PA
+F
+M
+3
+8
+1
+5
+****
+Leonardo Martins
+PR
+M
+F
+1
+8
+****
+Miguel Santos
+RJ
+M
+M
+1
+5
+****
+Felipe Martins
+GO
+M
+F
+6
+8
+2
+4
+7
+5
+3
+****
+Rafael Rocha
+PA
+M
+F
+6
+5
+7
+2
+4
+8
+3
+****
+Sofia Almeida
+AM
+F
+F
+2
+1
+4
+****
+Fernanda Gomes
+TO
+F
+M
+6
+4
+7
+6
+3
+2
+5
+****
+Felipe Rocha
+RO
+M
+F
+3
+8
+4
+3
+****
+Bruno Oliveira
+RJ
+M
+F
+3
+7
+4
+8
+****
+Gustavo Rodrigues
+BA
+M
+M
+6
+6
+1
+3
+5
+4
+7
+****
+Mariana Almeida
+AL
+F
+M
+4
+6
+5
+7
+4
+****
+Arthur Almeida
+DF
+M
+F
+4
+6
+7
+4
+8
+****
+Yasmin Souza
+MS
+F
+M
+3
+6
+7
+1
+****
+Bernardo Gomes
+RS
+M
+I
+1
+5
+****
+Igor Oliveira
+RN
+M
+F
+4
+8
+5
+1
+6
+****
+Bruno Souza
+BA
+M
+M
+5
+5
+2
+6
+4
+1
+****
+Samuel Ribeiro
+SP
+M
+I
+5
+8
+5
+4
+7
+3
+****
+Patricia Pereira
+AM
+F
+M
+4
+1
+2
+5
+8
+****
+Miguel Martins
+MT
+M
+F
+3
+4
+6
+8
+****
+Otavio Martins
+AP
+M
+F
+2
+6
+2
+****
+Otavio Almeida
+MA
+M
+F
+6
+6
+1
+2
+8
+3
+5
+****
+Felipe Silva
+MG
+M
+F
+4
+1
+8
+4
+2
+****
+Yasmin Pereira
+MA
+F
+F
+5
+6
+4
+2
+3
+5
+****
+Gabriel Rodrigues
+RR
+M
+F
+2
+1
+5
+****
+Fernanda Pereira
+PR
+F
+M
+5
+8
+7
+1
+6
+2
+****
+Mariana Gomes
+AM
+F
+M
+3
+7
+5
+8
+****
+Manuela Gomes
+PR
+F
+M
+1
+7
+****
+Yasmin Rocha
+AP
+F
+M
+3
+5
+8
+1
+****
+Sofia Santos
+PR
+F
+M
+5
+8
+4
+7
+1
+5
+****
+Helena Rodrigues
+MG
+F
+M
+3
+3
+2
+7
+****
+Arthur Almeida
+MS
+M
+F
+6
+5
+7
+1
+4
+6
+2
+****
+Igor Souza
+PE
+M
+F
+6
+4
+5
+2
+7
+8
+3
+****
+Otavio Santos
+AC
+M
+F
+6
+6
+2
+7
+1
+3
+5
+****
+Tatiane Gomes
+MG
+F
+I
+4
+2
+4
+1
+8
+****
+Rafael Ribeiro
+CE
+M
+I
+4
+7
+3
+5
+8
+****
+Thiago Costa
+ES
+M
+M
+4
+6
+7
+3
+2
+****
+Valentina Rodrigues
+AC
+F
+M
+5
+2
+1
+7
+6
+3
+****
+Mariana Lima
+AP
+F
+F
+2
+5
+3
+****
+Natalia Silva
+BA
+F
+I
+1
+5
+****
+Mateus Gomes
+SP
+M
+F
+5
+6
+1
+8
+4
+3
+****
+Henrique Lima
+PR
+M
+M
+1
+3
+****
+Arthur Oliveira
+RS
+M
+F
+1
+8
+****
+Mariana Costa
+MS
+F
+M
+6
+7
+8
+3
+4
+6
+1
+****
+Clara Silva
+MT
+F
+M
+4
+4
+7
+1
+6
+****
+Clara Rodrigues
+AM
+F
+M
+5
+5
+7
+3
+2
+6
+****
+Isabela Santos
+RO
+F
+M
+3
+2
+7
+3
+****
+Leonardo Almeida
+MA
+M
+F
+1
+8
+****
+Eduardo Oliveira
+GO
+M
+F
+4
+2
+5
+7
+1
+****
+Daniel Almeida
+MS
+M
+I
+3
+7
+3
+1
+****
+Eduardo Ribeiro
+SP
+M
+F
+5
+6
+3
+7
+2
+8
+****
+Juliana Gomes
+PI
+F
+M
+5
+8
+7
+6
+4
+5
+****
+Fernanda Silva
+AC
+F
+I
+3
+7
+5
+1
+****
+Miguel Santos
+PR
+M
+F
+1
+4
+****
+Clara Rocha
+PR
+F
+F
+6
+2
+4
+7
+6
+8
+5
+****
+Miguel Rodrigues
+TO
+M
+F
+1
+7
+****
+Igor Almeida
+MG
+M
+F
+2
+3
+1
+****
+Caio Oliveira
+PR
+M
+F
+3
+5
+8
+6
+****
+Mariana Ribeiro
+BA
+F
+I
+1
+7
+****
+Gabriela Ribeiro
+SP
+F
+M
+1
+8
+****
+Henrique Ferreira
+BA
+M
+M
+3
+8
+7
+1
+****
+Alice Almeida
+RO
+F
+F
+1
+1
+****
+Mariana Ribeiro
+PR
+F
+M
+3
+5
+3
+4
+****
+Nicolas Martins
+GO
+M
+F
+4
+4
+6
+1
+7
+****
+Mariana Costa
+CE
+F
+M
+6
+8
+1
+5
+7
+6
+4
+****
+Felipe Santos
+PA
+M
+I
+1
+1
+****
+Felipe Souza
+AL
+M
+F
+2
+3
+5
+****
+Miguel Martins
+ES
+M
+F
+5
+4
+5
+6
+2
+3
+****
+Eduardo Pereira
+SE
+M
+M
+6
+3
+2
+7
+1
+6
+4
+****
+Felipe Costa
+MS
+M
+I
+1
+6
+****
+Lucas Lima
+RN
+M
+M
+2
+3
+8
+****
+Pedro Oliveira
+RJ
+M
+F
+5
+2
+8
+3
+6
+7
+****
+Natalia Gomes
+MG
+F
+F
+6
+2
+3
+4
+8
+7
+1
+****
+Alice Souza
+CE
+F
+M
+4
+8
+3
+1
+4
+****
+Eduardo Silva
+RJ
+M
+F
+6
+5
+3
+6
+4
+8
+7
+****
+Arthur Costa
+RN
+M
+I
+4
+5
+7
+6
+2
+****
+Olivia Almeida
+AM
+F
+M
+5
+7
+2
+6
+4
+1
+****
+Eduardo Martins
+DF
+M
+M
+2
+3
+8
+****
+Olivia Gomes
+AM
+F
+M
+6
+2
+8
+5
+4
+1
+7
+****
+Eduardo Souza
+RN
+M
+F
+4
+3
+1
+4
+6
+****
+Larissa Martins
+SC
+F
+I
+6
+1
+4
+6
+8
+2
+5
+****
+Thiago Rocha
+MS
+M
+F
+1
+8
+****
+Nicolas Lima
+MG
+M
+F
+1
+5
+****
+Carlos Oliveira
+AL
+M
+F
+6
+5
+6
+4
+3
+7
+1
+****
+Natalia Gomes
+CE
+F
+F
+4
+8
+1
+5
+7
+****
+Arthur Rocha
+RS
+M
+M
+1
+5
+****
+Juliana Silva
+AP
+F
+M
+6
+5
+2
+7
+3
+1
+6
+****
+Olivia Ferreira
+AC
+F
+M
+4
+1
+4
+2
+5
+****
+Bruno Ribeiro
+MS
+M
+F
+3
+3
+8
+5
+****
+Carlos Pereira
+RJ
+M
+F
+1
+4
+****
+Eduardo Almeida
+PE
+M
+F
+4
+6
+8
+2
+5
+****
+Mateus Souza
+PR
+M
+M
+6
+3
+2
+7
+8
+6
+4
+****
+Beatriz Souza
+RS
+F
+M
+5
+2
+6
+7
+3
+1
+****
+Vinicius Gomes
+MG
+M
+F
+4
+8
+5
+4
+7
+****
+Isabela Rodrigues
+RS
+F
+M
+6
+5
+4
+8
+6
+1
+3
+****
+Vinicius Martins
+ES
+M
+F
+2
+3
+6
+****
+Juliana Ribeiro
+RR
+F
+I
+6
+7
+2
+3
+6
+8
+1
+****
+Patricia Silva
+PI
+F
+M
+2
+3
+5
+****
+Daniel Pereira
+SP
+M
+F
+5
+1
+4
+8
+2
+7
+****
+Juliana Santos
+DF
+F
+M
+5
+2
+1
+7
+6
+4
+****
+Gabriela Ribeiro
+ES
+F
+I
+5
+3
+8
+1
+4
+6
+****
+Felipe Ferreira
+AL
+M
+F
+6
+6
+5
+7
+3
+8
+1
+****
+Lucas Lima
+RO
+M
+F
+3
+2
+7
+3
+****
+Gabriel Costa
+MG
+M
+I
+6
+1
+4
+8
+3
+5
+6
+****
+Miguel Souza
+MT
+M
+F
+2
+4
+6
+****
+Daniel Souza
+PE
+M
+F
+4
+3
+8
+2
+4
+****
+Thiago Santos
+MS
+M
+F
+4
+5
+6
+7
+2
+****
+Clara Almeida
+PA
+F
+M
+4
+8
+4
+6
+3
+****
+Joao Oliveira
+PA
+M
+F
+6
+1
+6
+7
+3
+5
+4
+****
+Bernardo Rocha
+TO
+M
+I
+1
+3
+****
+Fernanda Costa
+GO
+F
+M
+1
+6
+****
+Gustavo Silva
+RO
+M
+F
+2
+1
+2
+****
+Diego Santos
+AM
+M
+F
+6
+2
+7
+3
+8
+4
+6
+****
+Gabriel Oliveira
+AL
+M
+F
+5
+7
+1
+4
+3
+6
+****
+Bruna Lima
+DF
+F
+M
+4
+4
+2
+5
+6
+****
+Henrique Rocha
+ES
+M
+F
+6
+5
+8
+3
+7
+4
+6
+****
+Carlos Souza
+MG
+M
+F
+5
+4
+5
+3
+6
+7
+****
+Miguel Rodrigues
+TO
+M
+F
+5
+2
+7
+5
+6
+1
+****
+Lucas Lima
+DF
+M
+I
+6
+6
+8
+5
+4
+7
+1
+****
+Igor Costa
+AL
+M
+F
+6
+6
+4
+2
+8
+5
+1
+****
+Natalia Rocha
+BA
+F
+M
+2
+1
+8
+****
+Igor Oliveira
+AC
+M
+F
+2
+2
+8
+****
+Fernanda Lima
+PE
+F
+M
+1
+6
+****
+Leticia Pereira
+SE
+F
+M
+5
+2
+1
+7
+3
+5
+****
+Patricia Lima
+RJ
+F
+M
+3
+2
+4
+7
+****
+Leticia Ferreira
+SP
+F
+I
+5
+8
+6
+7
+1
+2
+****
+Clara Ribeiro
+PB
+F
+M
+1
+1
+****
+Arthur Martins
+AP
+M
+F
+6
+2
+4
+5
+8
+6
+7
+****
+Igor Ribeiro
+MA
+M
+F
+3
+1
+7
+8
+****
+Larissa Santos
+SP
+F
+I
+2
+5
+2
+****
+Beatriz Lima
+PI
+F
+M
+1
+4
+****
+Fernanda Ferreira
+RJ
+F
+M
+3
+8
+4
+6
+****
+Camila Pereira
+AM
+F
+M
+5
+1
+5
+2
+8
+7
+****
+Mariana Santos
+RR
+F
+M
+5
+6
+2
+7
+1
+8
+****
+Felipe Martins
+RJ
+M
+F
+4
+2
+8
+7
+6
+****
+Thiago Almeida
+ES
+M
+F
+5
+1
+5
+4
+6
+2
+****
+Lucas Almeida
+RN
+M
+F
+6
+4
+8
+7
+3
+1
+2
+****
+Joao Ferreira
+SC
+M
+F
+1
+4
+****
+Igor Souza
+AC
+M
+F
+1
+5
+****
+Alice Rocha
+CE
+F
+I
+6
+7
+1
+3
+2
+8
+4
+****
+Leticia Gomes
+MT
+F
+M
+4
+4
+1
+7
+6
+****
+Daniela Martins
+AP
+F
+F
+1
+3
+****
+Carlos Souza
+PA
+M
+F
+3
+1
+3
+8
+****
+Thiago Martins
+MG
+M
+F
+3
+7
+1
+2
+****
+Clara Ferreira
+SP
+F
+I
+4
+4
+2
+1
+5
+****
+Beatriz Ferreira
+DF
+F
+I
+5
+6
+8
+1
+3
+5
+****
+Alice Ribeiro
+RR
+F
+M
+2
+8
+1
+****
+Patricia Gomes
+SC
+F
+I
+1
+2
+****
+Eduarda Costa
+CE
+F
+I
+6
+8
+3
+4
+5
+2
+1
+****
+Arthur Santos
+PE
+M
+F
+2
+6
+1
+****
+Gabriel Martins
+ES
+M
+I
+1
+1
+****
+Juliana Lima
+GO
+F
+I
+6
+6
+5
+4
+1
+8
+3
+****
+Bruno Santos
+GO
+M
+F
+5
+4
+5
+2
+6
+7
+****
+Leticia Rodrigues
+DF
+F
+M
+2
+7
+5
+****
+Yasmin Santos
+PR
+F
+M
+2
+6
+3
+****
+Igor Martins
+RR
+M
+F
+2
+8
+7
+****
+Pedro Rocha
+RR
+M
+F
+4
+1
+8
+4
+2
+****
+Mariana Almeida
+SP
+F
+F
+6
+8
+5
+4
+7
+1
+6
+****
+Thiago Oliveira
+SE
+M
+I
+4
+3
+4
+8
+5
+****
+Sofia Ferreira
+RJ
+F
+M
+4
+5
+2
+8
+7
+****
+Nicolas Rocha
+MT
+M
+I
+4
+5
+2
+4
+1
+****
+Larissa Pereira
+PI
+F
+M
+3
+6
+1
+2
+****
+Miguel Ferreira
+SP
+M
+F
+6
+2
+6
+4
+7
+8
+5
+****
+Gabriela Rocha
+DF
+F
+I
+3
+7
+2
+1
+****
+Gustavo Rocha
+PI
+M
+F
+6
+6
+1
+7
+2
+8
+5
+****
+Bruno Pereira
+PR
+M
+F
+2
+2
+4
+****
+Juliana Souza
+CE
+F
+I
+4
+2
+3
+7
+8
+****
+Eduarda Gomes
+MG
+F
+M
+2
+6
+7
+****
+Camila Silva
+RN
+F
+M
+3
+1
+8
+6
+****
+Joao Gomes
+RR
+M
+I
+1
+3
+****
+Samuel Silva
+GO
+M
+F
+6
+7
+2
+8
+1
+3
+4
+****
+Mariana Almeida
+RR
+F
+I
+4
+7
+8
+6
+2
+****
+Yasmin Ferreira
+MS
+F
+F
+1
+2
+****
+Henrique Oliveira
+PR
+M
+F
+3
+6
+3
+7
+****
+Gabriel Silva
+RR
+M
+I
+5
+1
+8
+6
+3
+4
+****
+Rafaela Santos
+RS
+F
+M
+3
+6
+3
+1
+****
+Alice Ferreira
+PI
+F
+F
+4
+7
+1
+5
+6
+****
+Daniela Costa
+GO
+F
+M
+2
+2
+5
+****
+Alice Pereira
+AL
+F
+M
+2
+3
+8
+****
+Ana Souza
+MT
+F
+F
+1
+4
+****
+Caio Ribeiro
+ES
+M
+M
+3
+4
+3
+7
+****
+Bruna Almeida
+MA
+F
+I
+3
+7
+2
+4
+****
+Bruno Oliveira
+MG
+M
+I
+5
+2
+8
+4
+6
+1
+****
+Eduarda Lima
+SP
+F
+M
+4
+8
+3
+4
+5
+****
+Gabriel Ribeiro
+AM
+M
+F
+5
+1
+8
+7
+5
+6
+****
+Helena Martins
+MG
+F
+F
+4
+5
+7
+4
+1
+****
+Joao Rocha
+RN
+M
+I
+1
+2
+****
+Daniel Pereira
+ES
+M
+F
+5
+6
+2
+1
+5
+4
+****
+Isabela Costa
+CE
+F
+M
+2
+8
+1
+****
+Natalia Santos
+PB
+F
+M
+2
+7
+8
+****
+Thiago Almeida
+AM
+M
+M
+2
+8
+7
+****
+Leonardo Martins
+GO
+M
+M
+2
+3
+6
+****
+Manuela Rodrigues
+ES
+F
+F
+1
+5
+****
+Gustavo Souza
+SC
+M
+F
+1
+2
+****
+Clara Santos
+RR
+F
+M
+6
+6
+2
+7
+1
+8
+4
+****
+Helena Ferreira
+PA
+F
+I
+5
+4
+5
+1
+6
+2
+****
+Yasmin Ribeiro
+RS
+F
+I
+3
+4
+5
+2
+****
+Clara Silva
+AM
+F
+M
+4
+5
+1
+7
+8
+****
+Leonardo Pereira
+TO
+M
+I
+4
+2
+1
+6
+7
+****
+Henrique Martins
+MS
+M
+F
+3
+7
+1
+2
+****
+Daniel Santos
+RR
+M
+F
+5
+2
+7
+5
+4
+1
+****
+Arthur Rocha
+AM
+M
+F
+6
+1
+4
+5
+7
+2
+8
+****
+Mateus Costa
+AL
+M
+F
+2
+7
+6
+****
+Sofia Gomes
+PA
+F
+M
+6
+3
+1
+8
+4
+6
+5
+****
+Caio Costa
+MG
+M
+F
+5
+7
+2
+6
+1
+8
+****
+Diego Almeida
+BA
+M
+F
+6
+1
+8
+2
+4
+6
+5
+****
+Ana Pereira
+SE
+F
+M
+2
+3
+5
+****
+Bruna Santos
+MG
+F
+I
+5
+4
+6
+5
+1
+7
+****
+Arthur Almeida
+MT
+M
+F
+4
+7
+1
+3
+4
+****
+Alice Ferreira
+BA
+F
+F
+2
+8
+1
+****
+Helena Santos
+RO
+F
+M
+2
+8
+6
+****
+Helena Souza
+GO
+F
+M
+1
+2
+****
+Tatiane Oliveira
+SE
+F
+I
+3
+2
+4
+3
+****
+Mariana Gomes
+AC
+F
+M
+3
+3
+7
+8
+****
+Olivia Ribeiro
+RN
+F
+M
+3
+3
+7
+4
+****
+Mateus Ferreira
+ES
+M
+M
+4
+3
+4
+8
+2
+****
+Bruna Ribeiro
+RN
+F
+M
+6
+6
+8
+5
+3
+4
+7
+****
+Rafaela Silva
+MT
+F
+M
+6
+8
+5
+7
+2
+6
+3
+****
+Mariana Pereira
+AC
+F
+M
+4
+5
+6
+8
+4
+****
+Natalia Almeida
+MS
+F
+I
+6
+7
+8
+3
+4
+1
+2
+****
+Pedro Rodrigues
+BA
+M
+M
+1
+6
+****
+Gustavo Lima
+BA
+M
+F
+1
+3
+****
+Arthur Silva
+PI
+M
+F
+1
+1
+****
+Bernardo Rocha
+PI
+M
+F
+1
+2
+****
+Larissa Silva
+SP
+F
+M
+5
+7
+6
+5
+3
+8
+****
+Patricia Pereira
+MS
+F
+M
+6
+7
+5
+6
+8
+3
+4
+****
+Lucas Martins
+RN
+M
+F
+6
+2
+1
+6
+5
+8
+3
+****
+Olivia Silva
+DF
+F
+M
+2
+8
+4
+****
+Carlos Souza
+SP
+M
+F
+2
+2
+1
+****
+Rafaela Ferreira
+PB
+F
+M
+5
+2
+4
+5
+8
+3
+****
+Rafaela Souza
+DF
+F
+M
+5
+4
+7
+3
+2
+6
+****
+Diego Pereira
+GO
+M
+F
+1
+2
+****
+Fernanda Almeida
+PR
+F
+M
+1
+3
+****
+Larissa Costa
+MT
+F
+M
+4
+3
+2
+6
+4
+****
+Alice Pereira
+PI
+F
+I
+3
+4
+3
+2
+****
+Nicolas Rocha
+ES
+M
+F
+2
+3
+2
+****
+Felipe Rocha
+PE
+M
+F
+4
+6
+8
+7
+2
+****
+Felipe Rodrigues
+PR
+M
+F
+5
+8
+5
+4
+6
+2
+****
+Igor Gomes
+TO
+M
+M
+6
+6
+2
+8
+4
+3
+7
+****
+Leticia Lima
+AP
+F
+I
+6
+7
+1
+3
+6
+8
+5
+****
+Camila Ribeiro
+AC
+F
+M
+1
+4
+****
+Manuela Rocha
+PI
+F
+F
+4
+6
+1
+3
+4
+****
+Rafaela Ribeiro
+PR
+F
+M
+3
+2
+8
+3
+****
+Isabela Gomes
+AL
+F
+M
+1
+6
+****
+Helena Rocha
+AC
+F
+M
+6
+1
+5
+4
+6
+2
+7
+****
+Clara Santos
+MA
+F
+M
+3
+4
+5
+7
+****
+Thiago Rodrigues
+AP
+M
+I
+4
+5
+2
+3
+6
+****
+Felipe Costa
+RN
+M
+I
+2
+7
+2
+****
+Eduarda Rocha
+RS
+F
+M
+1
+3
+****
+Mariana Santos
+RR
+F
+I
+1
+7
+****
+Juliana Martins
+CE
+F
+I
+1
+2
+****
+Thiago Rodrigues
+MS
+M
+I
+4
+1
+8
+5
+2
+****
+Mateus Gomes
+SP
+M
+M
+5
+3
+1
+8
+4
+2
+****
+Camila Ferreira
+AP
+F
+M
+5
+4
+5
+1
+8
+3
+****
+Leticia Almeida
+DF
+F
+M
+1
+1
+****
+Henrique Lima
+RJ
+M
+F
+4
+5
+7
+4
+2
+****
+Rafael Pereira
+AP
+M
+F
+1
+6
+****
+Gabriel Oliveira
+PB
+M
+M
+6
+3
+2
+6
+8
+5
+4
+****
+Alice Santos
+SE
+F
+M
+2
+2
+1
+****
+Caio Lima
+PA
+M
+I
+3
+4
+1
+5
+****
+Leonardo Pereira
+TO
+M
+F
+1
+5
+****
+Ana Rodrigues
+AC
+F
+F
+4
+5
+3
+7
+6
+****
+Eduardo Martins
+AL
+M
+I
+1
+2
+****
+Ana Gomes
+RN
+F
+F
+5
+2
+5
+1
+4
+3
+****
+Eduardo Souza
+SC
+M
+F
+2
+1
+6
+****
+Alice Ferreira
+SP
+F
+M
+5
+1
+4
+3
+8
+2
+****
+Felipe Oliveira
+AC
+M
+I
+3
+4
+1
+7
+****
+Joao Martins
+ES
+M
+F
+5
+1
+2
+3
+7
+5
+****
+Eduarda Almeida
+AM
+F
+I
+6
+2
+4
+1
+7
+3
+8
+****
+Rafaela Silva
+AL
+F
+F
+6
+5
+1
+3
+7
+4
+6
+****
+Rafael Gomes
+GO
+M
+I
+2
+4
+7
+****
+Olivia Gomes
+AM
+F
+M
+4
+5
+3
+7
+6
+****
+Valentina Rocha
+RJ
+F
+M
+3
+4
+2
+7
+****
+Pedro Ribeiro
+MG
+M
+F
+2
+8
+3
+****
+Rafaela Ribeiro
+PB
+F
+F
+2
+7
+2
+****
+Carlos Gomes
+SE
+M
+I
+6
+1
+7
+2
+5
+3
+8
+****
+Daniel Souza
+SE
+M
+I
+6
+7
+3
+1
+6
+5
+8
+****
+Sofia Lima
+PE
+F
+M
+4
+3
+4
+7
+5
+****
+Joao Souza
+MT
+M
+F
+3
+7
+1
+5
+****
+Daniel Martins
+MT
+M
+F
+4
+3
+1
+6
+8
+****
+Lucas Silva
+RN
+M
+F
+5
+5
+4
+6
+3
+8
+****
+Gustavo Silva
+AL
+M
+F
+5
+3
+1
+5
+6
+2
+****
+Manuela Oliveira
+RO
+F
+I
+6
+5
+6
+4
+7
+2
+1
+****
+Rafaela Rocha
+TO
+F
+M
+3
+5
+8
+6
+****
+Helena Lima
+MS
+F
+F
+4
+2
+8
+4
+5
+****
+Beatriz Pereira
+MG
+F
+I
+5
+8
+5
+1
+2
+7
+****
+Helena Santos
+RS
+F
+F
+6
+2
+7
+4
+5
+8
+6
+****
+Yasmin Silva
+RJ
+F
+M
+5
+7
+2
+4
+1
+5
+****
+Nicolas Lima
+MT
+M
+I
+5
+6
+5
+7
+3
+1
+****
+Carlos Silva
+PB
+M
+F
+1
+6
+****
+Juliana Oliveira
+PB
+F
+M
+4
+1
+7
+8
+4
+****
+Leonardo Pereira
+SP
+M
+I
+6
+3
+7
+1
+2
+6
+4
+****
+Nicolas Silva
+GO
+M
+F
+6
+8
+2
+4
+6
+5
+7
+****
+Clara Gomes
+RR
+F
+F
+4
+5
+4
+2
+7
+****
+Nicolas Santos
+PA
+M
+F
+3
+8
+4
+6
+****
+Clara Silva
+DF
+F
+M
+5
+1
+7
+3
+2
+5
+****
+Caio Rocha
+CE
+M
+F
+6
+7
+5
+8
+4
+3
+1
+****
+Rafaela Lima
+TO
+F
+M
+2
+1
+6
+****
+Nicolas Rodrigues
+SC
+M
+F
+3
+3
+6
+1
+****
+Patricia Pereira
+DF
+F
+M
+6
+5
+4
+1
+3
+7
+8
+****
+Eduardo Ferreira
+AP
+M
+F
+6
+1
+8
+2
+5
+3
+7
+****
+Otavio Rodrigues
+MS
+M
+F
+4
+7
+4
+1
+8
+****
+Natalia Rodrigues
+MA
+F
+M
+5
+5
+6
+3
+7
+8
+****
+Gabriel Oliveira
+PR
+M
+F
+3
+8
+6
+1
+****
+Patricia Costa
+PI
+F
+I
+1
+4
+****
+Lucas Ferreira
+PA
+M
+F
+4
+5
+6
+8
+4
+****
+Henrique Santos
+MG
+M
+I
+4
+3
+7
+2
+8
+****
+Eduarda Santos
+MA
+F
+I
+1
+1
+****
+Rafael Almeida
+PA
+M
+F
+6
+6
+5
+8
+1
+2
+3
+****
+Daniela Santos
+AP
+F
+M
+2
+4
+1
+****
+Thiago Lima
+RJ
+M
+I
+5
+1
+8
+6
+5
+4
+****
+Valentina Santos
+AC
+F
+M
+2
+5
+8
+****
+Juliana Martins
+PA
+F
+M
+3
+6
+4
+7
+****
+Olivia Oliveira
+ES
+F
+F
+2
+2
+1
+****
+Helena Gomes
+MS
+F
+M
+1
+5
+****
+Otavio Almeida
+PE
+M
+F
+2
+4
+7
+****
+Yasmin Gomes
+RS
+F
+I
+3
+7
+4
+1
+****
+Miguel Silva
+PA
+M
+F
+5
+1
+2
+5
+4
+6
+****
+Ana Oliveira
+AC
+F
+M
+2
+8
+3
+****
+Yasmin Costa
+PB
+F
+I
+2
+7
+5
+****
+Gustavo Souza
+ES
+M
+F
+6
+4
+2
+7
+8
+6
+1
+****
+Joao Martins
+PE
+M
+F
+5
+4
+8
+6
+5
+7
+****
+Vinicius Silva
+RO
+M
+I
+3
+3
+7
+5
+****
+Gabriel Pereira
+AL
+M
+M
+4
+5
+8
+2
+7
+****
+Bruno Souza
+PI
+M
+I
+2
+7
+3
+****
+Tatiane Gomes
+SP
+F
+M
+4
+3
+1
+5
+6
+****
+Mateus Silva
+MS
+M
+I
+4
+4
+1
+5
+7
+****
+Pedro Lima
+ES
+M
+I
+3
+1
+7
+2
+****
+Felipe Lima
+MT
+M
+F
+6
+6
+1
+5
+2
+3
+7
+****
+Caio Santos
+MG
+M
+I
+5
+2
+7
+8
+5
+3
+****
+Nicolas Rocha
+RO
+M
+F
+5
+7
+8
+4
+6
+3
+****
+Eduardo Lima
+PR
+M
+I
+2
+4
+2
+****
+Sofia Silva
+MT
+F
+M
+5
+3
+4
+7
+2
+5
+****
+Thiago Ribeiro
+CE
+M
+F
+5
+7
+4
+3
+5
+6
+****
+Daniel Oliveira
+RO
+M
+M
+4
+4
+5
+2
+1
+****
+Larissa Santos
+MA
+F
+I
+6
+8
+5
+6
+7
+4
+2
+****
+Vinicius Oliveira
+SP
+M
+F
+5
+2
+6
+8
+1
+7
+****
+Helena Rodrigues
+CE
+F
+M
+5
+4
+8
+6
+2
+1
+****
+Joao Gomes
+SP
+M
+F
+2
+4
+2
+****
+Juliana Lima
+RJ
+F
+F
+4
+4
+1
+5
+2
+****
+Daniela Almeida
+RR
+F
+M
+4
+1
+8
+5
+6
+****
+Mariana Souza
+SP
+F
+M
+6
+1
+5
+2
+3
+4
+7
+****
+Manuela Almeida
+RJ
+F
+I
+2
+8
+4
+****
+Bernardo Ferreira
+RR
+M
+M
+3
+3
+2
+7
+****
+Thiago Santos
+PA
+M
+F
+4
+5
+8
+1
+3
+****
+Tatiane Silva
+RR
+F
+M
+4
+5
+6
+1
+7
+****
+Eduardo Costa
+BA
+M
+F
+1
+1
+****
+Olivia Silva
+RS
+F
+M
+6
+7
+3
+2
+6
+1
+4
+****
+Nicolas Pereira
+CE
+M
+F
+5
+3
+5
+1
+4
+7
+****
+Manuela Ribeiro
+MS
+F
+M
+5
+2
+4
+3
+5
+8
+****
+Patricia Souza
+MS
+F
+I
+3
+8
+1
+2
+****
+Lucas Ribeiro
+DF
+M
+F
+6
+4
+3
+8
+7
+5
+2
+****
+Mariana Gomes
+AP
+F
+F
+1
+4
+****
+Natalia Ferreira
+MT
+F
+I
+4
+2
+8
+4
+1
+****
+Miguel Gomes
+PA
+M
+M
+5
+4
+3
+6
+7
+8
+****
+Camila Costa
+SE
+F
+M
+2
+5
+2
+****
+Bernardo Pereira
+SP
+M
+M
+6
+5
+8
+2
+6
+4
+7
+****
+Natalia Pereira
+MT
+F
+M
+3
+4
+3
+1
+****
+Diego Gomes
+MA
+M
+F
+3
+6
+4
+5
+****
+Vinicius Almeida
+PE
+M
+F
+6
+1
+7
+3
+4
+5
+2
+****
+Patricia Martins
+SP
+F
+M
+1
+6
+****
+Fernanda Costa
+RS
+F
+M
+3
+8
+2
+3
+****
+Natalia Lima
+SE
+F
+M
+5
+6
+4
+7
+1
+8
+****
+Felipe Souza
+PA
+M
+F
+3
+7
+6
+3
+****
+Olivia Almeida
+GO
+F
+M
+2
+7
+8
+****
+Miguel Almeida
+AP
+M
+F
+4
+3
+8
+7
+4
+****
+Eduarda Oliveira
+RN
+F
+M
+2
+5
+4
+****
+Alice Ribeiro
+PE
+F
+M
+5
+2
+1
+8
+5
+4
+****
+Manuela Oliveira
+MG
+F
+M
+2
+5
+3
+****
+Leonardo Costa
+RN
+M
+I
+5
+4
+8
+3
+2
+1
+****
+Gabriela Oliveira
+RN
+F
+M
+6
+4
+1
+2
+8
+6
+7
+****
+Arthur Ribeiro
+PB
+M
+F
+1
+8
+****
+Beatriz Pereira
+RR
+F
+M
+1
+2
+****
+Pedro Lima
+AP
+M
+I
+4
+1
+8
+4
+5
+****
+Rafael Lima
+MT
+M
+M
+1
+6
+****
+Tatiane Martins
+MG
+F
+M
+1
+1
+****
+Joao Souza
+AP
+M
+F
+6
+6
+5
+2
+8
+4
+7
+****
+Henrique Almeida
+MG
+M
+I
+1
+6
+****
+Tatiane Pereira
+MG
+F
+F
+2
+4
+6
+****
+Sofia Ribeiro
+PA
+F
+I
+3
+8
+6
+5
+****
+Helena Rocha
+AL
+F
+M
+6
+8
+2
+1
+7
+5
+4
+****
+Camila Oliveira
+PA
+F
+I
+4
+2
+1
+5
+8
+****
+Valentina Rocha
+GO
+F
+M
+4
+5
+2
+4
+8
+****
+Diego Ferreira
+AM
+M
+F
+2
+6
+2
+****
+Tatiane Pereira
+BA
+F
+M
+6
+5
+4
+3
+1
+2
+6
+****
+Lucas Rodrigues
+SP
+M
+F
+6
+2
+8
+4
+6
+5
+3
+****
+Eduarda Rocha
+ES
+F
+M
+1
+6
+****
+Joao Ribeiro
+AL
+M
+M
+2
+2
+8
+****
+Bernardo Silva
+MA
+M
+M
+3
+4
+8
+3
+****
+Valentina Silva
+RS
+F
+I
+4
+6
+8
+3
+2
+****
+Yasmin Silva
+MG
+F
+I
+5
+5
+6
+3
+2
+8
+****
+Bruno Gomes
+RN
+M
+F
+2
+6
+5
+****
+Helena Silva
+PB
+F
+M
+1
+3
+****
+Bernardo Costa
+SP
+M
+F
+6
+8
+6
+1
+4
+3
+7
+****
+Vinicius Rocha
+AC
+M
+M
+1
+5
+****
+Eduarda Costa
+GO
+F
+M
+1
+7
+****
+Larissa Almeida
+MG
+F
+M
+3
+5
+6
+3
+****
+Bernardo Rocha
+PA
+M
+F
+5
+8
+5
+7
+3
+2
+****
+Nicolas Ferreira
+RO
+M
+F
+2
+3
+4
+****
+Otavio Almeida
+RN
+M
+F
+6
+3
+2
+4
+7
+8
+5
+****
+Manuela Gomes
+RS
+F
+M
+3
+6
+1
+8
+****
+Bruno Gomes
+PI
+M
+F
+5
+3
+2
+7
+5
+1
+****
+Olivia Ribeiro
+SP
+F
+M
+3
+3
+1
+5
+****
+Olivia Martins
+AP
+F
+M
+3
+3
+7
+8
+****
+Thiago Pereira
+ES
+M
+F
+5
+3
+6
+5
+2
+7
+****
+Gustavo Costa
+SP
+M
+F
+1
+6
+****
+Vinicius Ribeiro
+ES
+M
+F
+5
+1
+8
+6
+7
+2
+****
+Camila Silva
+CE
+F
+M
+2
+7
+8
+****
+Helena Ribeiro
+RJ
+F
+M
+5
+4
+3
+8
+1
+5
+****
+Larissa Rodrigues
+PR
+F
+I
+2
+2
+3
+****
+Beatriz Lima
+SE
+F
+M
+6
+5
+4
+1
+8
+2
+7
+****
+Gabriela Ferreira
+MT
+F
+I
+1
+8
+****
+Patricia Souza
+PE
+F
+M
+6
+4
+7
+2
+5
+1
+8
+****
+Joao Pereira
+RO
+M
+F
+5
+3
+1
+5
+4
+7
+****
+Mateus Santos
+MS
+M
+F
+4
+6
+4
+7
+5
+****
+Rafaela Oliveira
+CE
+F
+I
+6
+6
+5
+2
+1
+3
+7
+****
+Miguel Ferreira
+MT
+M
+I
+4
+1
+2
+5
+4
+****
+Olivia Souza
+RJ
+F
+M
+4
+3
+2
+7
+4
+****
+Fernanda Rocha
+AL
+F
+M
+5
+1
+8
+3
+7
+4
+****
+Mateus Santos
+RN
+M
+F
+6
+3
+5
+6
+4
+1
+7
+****
+Nicolas Rodrigues
+MG
+M
+F
+5
+5
+3
+7
+6
+4
+****
+Caio Oliveira
+MG
+M
+I
+4
+8
+4
+3
+6
+****
+Helena Costa
+BA
+F
+M
+6
+4
+6
+8
+2
+5
+3
+****
+Gabriel Ferreira
+PE
+M
+F
+4
+8
+7
+6
+5
+****
+Camila Pereira
+AP
+F
+M
+1
+5
+****
+Ana Rodrigues
+PA
+F
+I
+3
+2
+8
+6
+****
+Eduarda Almeida
+RR
+F
+M
+5
+7
+3
+1
+6
+5
+****
+Joao Almeida
+SC
+M
+F
+6
+4
+8
+1
+7
+2
+5
+****
+Leticia Almeida
+MA
+F
+I
+6
+4
+8
+5
+3
+7
+1
+****
+Arthur Rocha
+RJ
+M
+I
+1
+4
+****
+Juliana Ferreira
+ES
+F
+M
+4
+6
+8
+2
+3
+****
+Henrique Oliveira
+MT
+M
+F
+2
+4
+2
+****
+Bruna Silva
+RN
+F
+M
+4
+6
+3
+4
+7
+****
+Patricia Silva
+RR
+F
+M
+5
+6
+7
+1
+5
+3
+****
+Camila Santos
+MG
+F
+I
+1
+4
+****
+Eduardo Gomes
+ES
+M
+F
+1
+7
+****
+Eduardo Santos
+SE
+M
+M
+2
+5
+7
+****
+Miguel Costa
+PB
+M
+F
+1
+8
+****
+Alice Rodrigues
+PI
+F
+M
+5
+4
+1
+6
+5
+2
+****
+Otavio Santos
+SP
+M
+F
+3
+1
+5
+7
+****
+Gabriela Ferreira
+AL
+F
+M
+2
+1
+3
+****
+Diego Ferreira
+RR
+M
+F
+3
+1
+4
+7
+****
+Nicolas Ferreira
+BA
+M
+F
+6
+3
+7
+1
+2
+5
+4
+****
+Valentina Souza
+GO
+F
+M
+1
+3
+****
+Otavio Oliveira
+SP
+M
+F
+3
+1
+4
+6
+****
+Rafael Martins
+RO
+M
+F
+4
+7
+1
+4
+3
+****
+Olivia Rodrigues
+MA
+F
+M
+3
+5
+4
+2
+****
+Daniela Oliveira
+PA
+F
+M
+2
+7
+8
+****
+Yasmin Martins
+AM
+F
+M
+6
+4
+6
+7
+3
+1
+2
+****
+Camila Costa
+SC
+F
+M
+1
+8
+****
+Gabriela Rocha
+ES
+F
+I
+5
+8
+3
+6
+2
+7
+****
+Miguel Almeida
+PA
+M
+F
+1
+5
+****
+Mariana Gomes
+DF
+F
+M
+6
+4
+1
+2
+3
+5
+6
+****
+Isabela Pereira
+RJ
+F
+I
+6
+6
+7
+5
+8
+3
+1
+****
+Gabriel Almeida
+ES
+M
+F
+1
+7
+****
+Eduardo Rodrigues
+RS
+M
+F
+4
+5
+2
+6
+8
+****
+Leticia Oliveira
+RR
+F
+M
+6
+7
+4
+6
+2
+1
+8
+****
+Carlos Almeida
+MG
+M
+I
+2
+4
+2
+****
+Camila Pereira
+MT
+F
+I
+3
+1
+5
+2
+****
+Valentina Oliveira
+PR
+F
+M
+3
+6
+1
+4
+****
+Beatriz Gomes
+AC
+F
+I
+5
+8
+1
+3
+7
+6
+****
+Thiago Rocha
+MT
+M
+F
+6
+6
+8
+2
+7
+5
+3
+****
+Pedro Oliveira
+AP
+M
+M
+1
+2
+****
+Daniela Pereira
+PI
+F
+I
+6
+6
+7
+2
+3
+1
+8
+****
+Arthur Martins
+PB
+M
+I
+4
+2
+3
+8
+7
+****
+Camila Lima
+RN
+F
+M
+5
+3
+2
+8
+7
+6
+****
+Tatiane Ribeiro
+RS
+F
+M
+2
+5
+3
+****
+Patricia Martins
+MA
+F
+M
+5
+8
+1
+6
+3
+7
+****
+Rafael Souza
+SC
+M
+F
+6
+3
+7
+1
+6
+8
+5
+****
+Mateus Martins
+PA
+M
+F
+3
+2
+4
+1
+****
+Leticia Santos
+AL
+F
+M
+6
+5
+6
+8
+3
+7
+2
+****
+Carlos Martins
+PA
+M
+F
+6
+1
+5
+6
+2
+8
+3
+****
+Vinicius Gomes
+MA
+M
+F
+2
+3
+7
+****
+Bruna Rodrigues
+AC
+F
+I
+1
+2
+****
+Igor Rocha
+RO
+M
+F
+1
+7
+****
+Beatriz Almeida
+AC
+F
+M
+4
+5
+7
+6
+8
+****
+Gabriela Gomes
+PA
+F
+M
+5
+2
+6
+7
+3
+4
+****
+Bruno Lima
+PE
+M
+F
+5
+2
+3
+4
+5
+1
+****
+Yasmin Rodrigues
+RJ
+F
+M
+3
+7
+4
+2
+****
+Daniela Pereira
+PA
+F
+I
+2
+6
+4
+****
+Mateus Silva
+SP
+M
+F
+3
+8
+1
+3
+****
+Otavio Rocha
+RN
+M
+F
+5
+7
+4
+5
+3
+2
+****
+Lucas Almeida
+SE
+M
+F
+3
+4
+8
+6
+****
+Tatiane Oliveira
+AP
+F
+M
+6
+7
+3
+5
+8
+4
+6
+****
+Igor Gomes
+PB
+M
+F
+2
+2
+3
+****
+Leticia Silva
+DF
+F
+M
+5
+5
+6
+2
+8
+1
+****
+Thiago Lima
+AP
+M
+F
+5
+2
+6
+3
+1
+8
+****
+Igor Martins
+PI
+M
+I
+2
+3
+7
+****
+Bruna Ferreira
+PB
+F
+M
+6
+7
+6
+8
+3
+5
+2
+****
+Juliana Ferreira
+PI
+F
+I
+2
+6
+7
+****
+Larissa Gomes
+RN
+F
+M
+2
+8
+4
+****
+Juliana Santos
+SE
+F
+M
+3
+5
+6
+7
+****
+Daniel Souza
+SP
+M
+I
+3
+6
+8
+5
+****
+Joao Martins
+RS
+M
+F
+5
+6
+3
+7
+8
+4
+****
+Gabriel Rocha
+PE
+M
+F
+2
+7
+5
+****
+Isabela Ferreira
+MA
+F
+M
+2
+4
+2
+****
+Daniela Almeida
+RS
+F
+M
+4
+7
+1
+6
+3
+****
+Leonardo Oliveira
+PA
+M
+M
+1
+4
+****
+Carlos Ribeiro
+GO
+M
+M
+3
+3
+4
+5
+****
+Clara Gomes
+RS
+F
+F
+6
+1
+4
+3
+6
+7
+2
+****
+Isabela Almeida
+RR
+F
+F
+5
+7
+4
+3
+1
+5
+****
+Manuela Rodrigues
+MT
+F
+M
+2
+6
+7
+****
+Fernanda Martins
+AL
+F
+M
+6
+3
+2
+1
+4
+8
+5
+****
+Juliana Costa
+SP
+F
+M
+3
+3
+7
+1
+****
+Bernardo Santos
+PR
+M
+F
+4
+4
+7
+3
+6
+****
+Vinicius Martins
+RN
+M
+F
+1
+3
+****
+Carlos Santos
+GO
+M
+M
+5
+4
+7
+1
+5
+2
+****
+Daniela Lima
+MT
+F
+M
+4
+5
+2
+7
+1
+****
+Carlos Almeida
+PB
+M
+I
+5
+2
+6
+3
+1
+7
+****
+Tatiane Santos
+RR
+F
+M
+3
+3
+8
+6
+****
+Gabriel Rocha
+PB
+M
+M
+1
+3
+****
+Diego Rodrigues
+MT
+M
+F
+1
+5
+****
+Ana Pereira
+RO
+F
+M
+3
+1
+8
+7
+****
+Leonardo Oliveira
+PA
+M
+F
+1
+3
+****
+Henrique Gomes
+MS
+M
+F
+6
+5
+7
+8
+3
+2
+6
+****
+Fernanda Santos
+RO
+F
+F
+1
+8
+****
+Nicolas Oliveira
+TO
+M
+M
+6
+4
+3
+5
+6
+2
+1
+****
+Sofia Lima
+RS
+F
+M
+1
+8
+****
+Yasmin Pereira
+AL
+F
+M
+5
+7
+6
+5
+2
+4
+****
+Carlos Almeida
+MA
+M
+F
+3
+7
+8
+6
+****
+Eduarda Pereira
+MG
+F
+M
+2
+8
+1
+****
+Bernardo Oliveira
+SP
+M
+F
+6
+5
+3
+1
+2
+4
+8

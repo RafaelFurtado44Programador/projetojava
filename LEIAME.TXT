@@ -1,0 +1,115 @@
+AGENCIA DE RELACIONAMENTO - Trabalho 1 - Lab. AED I
+Autor: Rafael Furtado
+
+=====================================================================
+1. ARQUIVOS
+=====================================================================
+ListaIdentificadores.java  TAD lista encadeada de identificadores (inteiros)
+ListaCandidatos.java       lista encadeada de candidatos
+Candidato.java             TAD Candidato
+Relacionamento.java        programa principal (menu interativo)
+GeradorCandidatos.java     programa auxiliar que gera candidatos.txt
+nomes.txt                  dicionario de nomes usado pelo gerador
+DOCUMENTACAO.md            especificacao de requisitos e arquitetura
+
+=====================================================================
+2. REQUISITOS
+=====================================================================
+JDK 17 ou superior (testado com JDK 25). Nenhuma biblioteca externa.
+
+=====================================================================
+3. COMPILACAO
+=====================================================================
+Abra um terminal na pasta do projeto e execute:
+
+    javac *.java
+
+=====================================================================
+4. GERAR O ARQUIVO DE CANDIDATOS (programa auxiliar)
+=====================================================================
+    java GeradorCandidatos [quantidade] [arquivo] [semente]
+
+    quantidade  numero de candidatos a gerar (padrao: 1000)
+    arquivo     nome do arquivo de saida (padrao: candidatos.txt)
+    semente     numero inteiro; a mesma semente gera sempre os mesmos dados
+
+Exemplos:
+    java GeradorCandidatos
+    java GeradorCandidatos 200
+    java GeradorCandidatos 100 candidatos.txt 42
+
+Os nomes sao sorteados do arquivo nomes.txt (uma linha por nome, no
+formato "F;Nome" ou "M;Nome"). Se nomes.txt nao existir, o gerador
+usa uma lista interna de nomes. O estado e sorteado entre as 27
+siglas do Brasil; cada candidato recebe de 1 a 6 areas de interesse distintas.
+
+=====================================================================
+5. EXECUTAR O PROGRAMA PRINCIPAL
+=====================================================================
+    java Relacionamento [arquivo]
+
+    arquivo     arquivo de candidatos (padrao: candidatos.txt)
+
+Ao iniciar, o programa le os candidatos e calcula os potenciais pares
+usando o grau de interesse padrao 6. Em seguida exibe o menu:
+
+    1 - Inserir/atualizar o grau de interesse desejado
+        Informe um valor de 1 a 15. Os pares sao recalculados.
+    2 - Potenciais companheiros de um candidato
+        Informe o id do candidato. Mostra o numero e a lista de nomes.
+    3 - K candidatos com mais potenciais companheiros
+        Informe K. Empates aparecem em ordem crescente de id.
+    4 - Candidatos sem nenhum companheiro
+    5 - Candidatos com interesse em uma area
+        Informe o codigo da area (a lista de codigos e exibida).
+    6 - Candidatos que residem em um estado
+        Informe a sigla (ex.: MG).
+    7 - Listar todos os candidatos (opcao auxiliar, mostra os ids)
+    0 - Sair
+
+Os ids sao atribuidos na ordem em que os candidatos aparecem no arquivo
+(o primeiro e 1, o segundo e 2, ...).
+
+=====================================================================
+6. REGRAS USADAS PARA FORMAR OS PARES
+=====================================================================
+Dois candidatos sao potenciais companheiros quando:
+  a) residem no mesmo estado;
+  b) o sexo de cada um atende ao sexo de interesse do outro
+     (I = indiferente, aceita F e M);
+  c) o grau de interesse em comum e maior ou igual ao grau desejado.
+
+Grau de interesse em comum = soma dos pesos das areas em comum:
+  peso 1: 1-ESPORTES, 3-MUSICA, 4-CINEMA
+  peso 2: 2-ARTES, 6-ANIMAIS, 7-GASTRONOMIA
+  peso 3: 5-TECNOLOGIA, 8-CIENCIAS
+
+=====================================================================
+7. FORMATO DO ARQUIVO candidatos.txt
+=====================================================================
+    N                 numero de candidatos
+    ****
+    nome
+    sigla_estado
+    sexo              F ou M
+    sexo_interesse    F, M ou I
+    numero_areas
+    area_1
+    area_2
+    ...
+    ****
+    (proximo candidato)
+
+Linhas em branco sao ignoradas. Areas invalidas (fora de 1..8) ou
+repetidas sao ignoradas com um aviso. Erros de formato (sigla que nao
+tem 2 letras, sexo invalido, numero de areas fora de 0..8, nome vazio
+depois do ****, fim de arquivo antes do esperado) interrompem a leitura
+com uma mensagem indicando a linha do problema. Arquivos salvos como
+"UTF-8 com BOM" sao aceitos.
+
+=====================================================================
+8. OBSERVACAO
+=====================================================================
+As mensagens do programa sao exibidas sem acentos para evitar
+caracteres corrompidos em terminais do Windows que nao usam UTF-8.
+Fiz o "LEIAME" com auxilio da Inteligencia Artificial. Correção de BUGS também foram feitas com auxilio.
